@@ -1,0 +1,240 @@
+{"prompt": "What is the capital of France?", "tier": 1}
+{"prompt": "What is the capital of Q3 revenue?", "tier": 1}
+{"prompt": "What is the capital of the merger?", "tier": 1}
+{"prompt": "What is the capital of onboarding delays?", "tier": 1}
+{"prompt": "What is the capital of the outage?", "tier": 1}
+{"prompt": "What is the capital of user retention?", "tier": 1}
+{"prompt": "What is the capital of the API redesign?", "tier": 1}
+{"prompt": "What is the capital of customer churn?", "tier": 1}
+{"prompt": "Extract the email address from this text: contact us at France@example.com", "tier": 1}
+{"prompt": "Extract the email address from this text: contact us at Q3 revenue@example.com", "tier": 1}
+{"prompt": "Extract the email address from this text: contact us at the merger@example.com", "tier": 1}
+{"prompt": "Extract the email address from this text: contact us at onboarding delays@example.com", "tier": 1}
+{"prompt": "Extract the email address from this text: contact us at the outage@example.com", "tier": 1}
+{"prompt": "Extract the email address from this text: contact us at user retention@example.com", "tier": 1}
+{"prompt": "Extract the email address from this text: contact us at the API redesign@example.com", "tier": 1}
+{"prompt": "Extract the email address from this text: contact us at customer churn@example.com", "tier": 1}
+{"prompt": "Convert 'France' to uppercase.", "tier": 1}
+{"prompt": "Convert 'Q3 revenue' to uppercase.", "tier": 1}
+{"prompt": "Convert 'the merger' to uppercase.", "tier": 1}
+{"prompt": "Convert 'onboarding delays' to uppercase.", "tier": 1}
+{"prompt": "Convert 'the outage' to uppercase.", "tier": 1}
+{"prompt": "Convert 'user retention' to uppercase.", "tier": 1}
+{"prompt": "Convert 'the API redesign' to uppercase.", "tier": 1}
+{"prompt": "Convert 'customer churn' to uppercase.", "tier": 1}
+{"prompt": "What year did France happen?", "tier": 1}
+{"prompt": "What year did Q3 revenue happen?", "tier": 1}
+{"prompt": "What year did the merger happen?", "tier": 1}
+{"prompt": "What year did onboarding delays happen?", "tier": 1}
+{"prompt": "What year did the outage happen?", "tier": 1}
+{"prompt": "What year did user retention happen?", "tier": 1}
+{"prompt": "What year did the API redesign happen?", "tier": 1}
+{"prompt": "What year did customer churn happen?", "tier": 1}
+{"prompt": "List the days of the week.", "tier": 1}
+{"prompt": "List the days of the week.", "tier": 1}
+{"prompt": "List the days of the week.", "tier": 1}
+{"prompt": "List the days of the week.", "tier": 1}
+{"prompt": "List the days of the week.", "tier": 1}
+{"prompt": "List the days of the week.", "tier": 1}
+{"prompt": "List the days of the week.", "tier": 1}
+{"prompt": "List the days of the week.", "tier": 1}
+{"prompt": "Reformat this date to YYYY-MM-DD: France", "tier": 1}
+{"prompt": "Reformat this date to YYYY-MM-DD: Q3 revenue", "tier": 1}
+{"prompt": "Reformat this date to YYYY-MM-DD: the merger", "tier": 1}
+{"prompt": "Reformat this date to YYYY-MM-DD: onboarding delays", "tier": 1}
+{"prompt": "Reformat this date to YYYY-MM-DD: the outage", "tier": 1}
+{"prompt": "Reformat this date to YYYY-MM-DD: user retention", "tier": 1}
+{"prompt": "Reformat this date to YYYY-MM-DD: the API redesign", "tier": 1}
+{"prompt": "Reformat this date to YYYY-MM-DD: customer churn", "tier": 1}
+{"prompt": "What is France plus France?", "tier": 1}
+{"prompt": "What is Q3 revenue plus Q3 revenue?", "tier": 1}
+{"prompt": "What is the merger plus the merger?", "tier": 1}
+{"prompt": "What is onboarding delays plus onboarding delays?", "tier": 1}
+{"prompt": "What is the outage plus the outage?", "tier": 1}
+{"prompt": "What is user retention plus user retention?", "tier": 1}
+{"prompt": "What is the API redesign plus the API redesign?", "tier": 1}
+{"prompt": "What is customer churn plus customer churn?", "tier": 1}
+{"prompt": "Translate 'hello' to France.", "tier": 1}
+{"prompt": "Translate 'hello' to Q3 revenue.", "tier": 1}
+{"prompt": "Translate 'hello' to the merger.", "tier": 1}
+{"prompt": "Translate 'hello' to onboarding delays.", "tier": 1}
+{"prompt": "Translate 'hello' to the outage.", "tier": 1}
+{"prompt": "Translate 'hello' to user retention.", "tier": 1}
+{"prompt": "Translate 'hello' to the API redesign.", "tier": 1}
+{"prompt": "Translate 'hello' to customer churn.", "tier": 1}
+{"prompt": "Given the text 'The sky is France', what color is the sky?", "tier": 1}
+{"prompt": "Given the text 'The sky is Q3 revenue', what color is the sky?", "tier": 1}
+{"prompt": "Given the text 'The sky is the merger', what color is the sky?", "tier": 1}
+{"prompt": "Given the text 'The sky is onboarding delays', what color is the sky?", "tier": 1}
+{"prompt": "Given the text 'The sky is the outage', what color is the sky?", "tier": 1}
+{"prompt": "Given the text 'The sky is user retention', what color is the sky?", "tier": 1}
+{"prompt": "Given the text 'The sky is the API redesign', what color is the sky?", "tier": 1}
+{"prompt": "Given the text 'The sky is customer churn', what color is the sky?", "tier": 1}
+{"prompt": "Extract the phone number from: call me at 555-France-1234", "tier": 1}
+{"prompt": "Extract the phone number from: call me at 555-Q3 revenue-1234", "tier": 1}
+{"prompt": "Extract the phone number from: call me at 555-the merger-1234", "tier": 1}
+{"prompt": "Extract the phone number from: call me at 555-onboarding delays-1234", "tier": 1}
+{"prompt": "Extract the phone number from: call me at 555-the outage-1234", "tier": 1}
+{"prompt": "Extract the phone number from: call me at 555-user retention-1234", "tier": 1}
+{"prompt": "Extract the phone number from: call me at 555-the API redesign-1234", "tier": 1}
+{"prompt": "Extract the phone number from: call me at 555-customer churn-1234", "tier": 1}
+{"prompt": "Summarize the following customer review in two sentences: France", "tier": 2}
+{"prompt": "Summarize the following customer review in two sentences: Q3 revenue", "tier": 2}
+{"prompt": "Summarize the following customer review in two sentences: the merger", "tier": 2}
+{"prompt": "Summarize the following customer review in two sentences: onboarding delays", "tier": 2}
+{"prompt": "Summarize the following customer review in two sentences: the outage", "tier": 2}
+{"prompt": "Summarize the following customer review in two sentences: user retention", "tier": 2}
+{"prompt": "Summarize the following customer review in two sentences: the API redesign", "tier": 2}
+{"prompt": "Summarize the following customer review in two sentences: customer churn", "tier": 2}
+{"prompt": "Classify this support ticket as billing, technical, or account: France", "tier": 2}
+{"prompt": "Classify this support ticket as billing, technical, or account: Q3 revenue", "tier": 2}
+{"prompt": "Classify this support ticket as billing, technical, or account: the merger", "tier": 2}
+{"prompt": "Classify this support ticket as billing, technical, or account: onboarding delays", "tier": 2}
+{"prompt": "Classify this support ticket as billing, technical, or account: the outage", "tier": 2}
+{"prompt": "Classify this support ticket as billing, technical, or account: user retention", "tier": 2}
+{"prompt": "Classify this support ticket as billing, technical, or account: the API redesign", "tier": 2}
+{"prompt": "Classify this support ticket as billing, technical, or account: customer churn", "tier": 2}
+{"prompt": "Given the following sales data, identify the top-performing region: France", "tier": 2}
+{"prompt": "Given the following sales data, identify the top-performing region: Q3 revenue", "tier": 2}
+{"prompt": "Given the following sales data, identify the top-performing region: the merger", "tier": 2}
+{"prompt": "Given the following sales data, identify the top-performing region: onboarding delays", "tier": 2}
+{"prompt": "Given the following sales data, identify the top-performing region: the outage", "tier": 2}
+{"prompt": "Given the following sales data, identify the top-performing region: user retention", "tier": 2}
+{"prompt": "Given the following sales data, identify the top-performing region: the API redesign", "tier": 2}
+{"prompt": "Given the following sales data, identify the top-performing region: customer churn", "tier": 2}
+{"prompt": "Compare the pricing of Plan A and Plan B based on this table: France", "tier": 2}
+{"prompt": "Compare the pricing of Plan A and Plan B based on this table: Q3 revenue", "tier": 2}
+{"prompt": "Compare the pricing of Plan A and Plan B based on this table: the merger", "tier": 2}
+{"prompt": "Compare the pricing of Plan A and Plan B based on this table: onboarding delays", "tier": 2}
+{"prompt": "Compare the pricing of Plan A and Plan B based on this table: the outage", "tier": 2}
+{"prompt": "Compare the pricing of Plan A and Plan B based on this table: user retention", "tier": 2}
+{"prompt": "Compare the pricing of Plan A and Plan B based on this table: the API redesign", "tier": 2}
+{"prompt": "Compare the pricing of Plan A and Plan B based on this table: customer churn", "tier": 2}
+{"prompt": "Extract and structure the key entities (names, dates, amounts) from: France", "tier": 2}
+{"prompt": "Extract and structure the key entities (names, dates, amounts) from: Q3 revenue", "tier": 2}
+{"prompt": "Extract and structure the key entities (names, dates, amounts) from: the merger", "tier": 2}
+{"prompt": "Extract and structure the key entities (names, dates, amounts) from: onboarding delays", "tier": 2}
+{"prompt": "Extract and structure the key entities (names, dates, amounts) from: the outage", "tier": 2}
+{"prompt": "Extract and structure the key entities (names, dates, amounts) from: user retention", "tier": 2}
+{"prompt": "Extract and structure the key entities (names, dates, amounts) from: the API redesign", "tier": 2}
+{"prompt": "Extract and structure the key entities (names, dates, amounts) from: customer churn", "tier": 2}
+{"prompt": "Given this meeting transcript, list the three main action items: France", "tier": 2}
+{"prompt": "Given this meeting transcript, list the three main action items: Q3 revenue", "tier": 2}
+{"prompt": "Given this meeting transcript, list the three main action items: the merger", "tier": 2}
+{"prompt": "Given this meeting transcript, list the three main action items: onboarding delays", "tier": 2}
+{"prompt": "Given this meeting transcript, list the three main action items: the outage", "tier": 2}
+{"prompt": "Given this meeting transcript, list the three main action items: user retention", "tier": 2}
+{"prompt": "Given this meeting transcript, list the three main action items: the API redesign", "tier": 2}
+{"prompt": "Given this meeting transcript, list the three main action items: customer churn", "tier": 2}
+{"prompt": "Categorize the following list of expenses by type: France", "tier": 2}
+{"prompt": "Categorize the following list of expenses by type: Q3 revenue", "tier": 2}
+{"prompt": "Categorize the following list of expenses by type: the merger", "tier": 2}
+{"prompt": "Categorize the following list of expenses by type: onboarding delays", "tier": 2}
+{"prompt": "Categorize the following list of expenses by type: the outage", "tier": 2}
+{"prompt": "Categorize the following list of expenses by type: user retention", "tier": 2}
+{"prompt": "Categorize the following list of expenses by type: the API redesign", "tier": 2}
+{"prompt": "Categorize the following list of expenses by type: customer churn", "tier": 2}
+{"prompt": "Summarize the sentiment of these product reviews: France", "tier": 2}
+{"prompt": "Summarize the sentiment of these product reviews: Q3 revenue", "tier": 2}
+{"prompt": "Summarize the sentiment of these product reviews: the merger", "tier": 2}
+{"prompt": "Summarize the sentiment of these product reviews: onboarding delays", "tier": 2}
+{"prompt": "Summarize the sentiment of these product reviews: the outage", "tier": 2}
+{"prompt": "Summarize the sentiment of these product reviews: user retention", "tier": 2}
+{"prompt": "Summarize the sentiment of these product reviews: the API redesign", "tier": 2}
+{"prompt": "Summarize the sentiment of these product reviews: customer churn", "tier": 2}
+{"prompt": "Given this schema, generate a JSON object matching the structure: France", "tier": 2}
+{"prompt": "Given this schema, generate a JSON object matching the structure: Q3 revenue", "tier": 2}
+{"prompt": "Given this schema, generate a JSON object matching the structure: the merger", "tier": 2}
+{"prompt": "Given this schema, generate a JSON object matching the structure: onboarding delays", "tier": 2}
+{"prompt": "Given this schema, generate a JSON object matching the structure: the outage", "tier": 2}
+{"prompt": "Given this schema, generate a JSON object matching the structure: user retention", "tier": 2}
+{"prompt": "Given this schema, generate a JSON object matching the structure: the API redesign", "tier": 2}
+{"prompt": "Given this schema, generate a JSON object matching the structure: customer churn", "tier": 2}
+{"prompt": "Identify the main argument and one counterargument in this paragraph: France", "tier": 2}
+{"prompt": "Identify the main argument and one counterargument in this paragraph: Q3 revenue", "tier": 2}
+{"prompt": "Identify the main argument and one counterargument in this paragraph: the merger", "tier": 2}
+{"prompt": "Identify the main argument and one counterargument in this paragraph: onboarding delays", "tier": 2}
+{"prompt": "Identify the main argument and one counterargument in this paragraph: the outage", "tier": 2}
+{"prompt": "Identify the main argument and one counterargument in this paragraph: user retention", "tier": 2}
+{"prompt": "Identify the main argument and one counterargument in this paragraph: the API redesign", "tier": 2}
+{"prompt": "Identify the main argument and one counterargument in this paragraph: customer churn", "tier": 2}
+{"prompt": "Analyze the following business scenario and recommend a strategy, justifying each tradeoff: France", "tier": 3}
+{"prompt": "Analyze the following business scenario and recommend a strategy, justifying each tradeoff: Q3 revenue", "tier": 3}
+{"prompt": "Analyze the following business scenario and recommend a strategy, justifying each tradeoff: the merger", "tier": 3}
+{"prompt": "Analyze the following business scenario and recommend a strategy, justifying each tradeoff: onboarding delays", "tier": 3}
+{"prompt": "Analyze the following business scenario and recommend a strategy, justifying each tradeoff: the outage", "tier": 3}
+{"prompt": "Analyze the following business scenario and recommend a strategy, justifying each tradeoff: user retention", "tier": 3}
+{"prompt": "Analyze the following business scenario and recommend a strategy, justifying each tradeoff: the API redesign", "tier": 3}
+{"prompt": "Analyze the following business scenario and recommend a strategy, justifying each tradeoff: customer churn", "tier": 3}
+{"prompt": "Given these three conflicting stakeholder requirements, synthesize a compromise proposal and explain your reasoning: France", "tier": 3}
+{"prompt": "Given these three conflicting stakeholder requirements, synthesize a compromise proposal and explain your reasoning: Q3 revenue", "tier": 3}
+{"prompt": "Given these three conflicting stakeholder requirements, synthesize a compromise proposal and explain your reasoning: the merger", "tier": 3}
+{"prompt": "Given these three conflicting stakeholder requirements, synthesize a compromise proposal and explain your reasoning: onboarding delays", "tier": 3}
+{"prompt": "Given these three conflicting stakeholder requirements, synthesize a compromise proposal and explain your reasoning: the outage", "tier": 3}
+{"prompt": "Given these three conflicting stakeholder requirements, synthesize a compromise proposal and explain your reasoning: user retention", "tier": 3}
+{"prompt": "Given these three conflicting stakeholder requirements, synthesize a compromise proposal and explain your reasoning: the API redesign", "tier": 3}
+{"prompt": "Given these three conflicting stakeholder requirements, synthesize a compromise proposal and explain your reasoning: customer churn", "tier": 3}
+{"prompt": "Critique this argument for logical fallacies and rewrite it to be more rigorous: France", "tier": 3}
+{"prompt": "Critique this argument for logical fallacies and rewrite it to be more rigorous: Q3 revenue", "tier": 3}
+{"prompt": "Critique this argument for logical fallacies and rewrite it to be more rigorous: the merger", "tier": 3}
+{"prompt": "Critique this argument for logical fallacies and rewrite it to be more rigorous: onboarding delays", "tier": 3}
+{"prompt": "Critique this argument for logical fallacies and rewrite it to be more rigorous: the outage", "tier": 3}
+{"prompt": "Critique this argument for logical fallacies and rewrite it to be more rigorous: user retention", "tier": 3}
+{"prompt": "Critique this argument for logical fallacies and rewrite it to be more rigorous: the API redesign", "tier": 3}
+{"prompt": "Critique this argument for logical fallacies and rewrite it to be more rigorous: customer churn", "tier": 3}
+{"prompt": "Given this incomplete dataset, infer the most likely missing values and explain your reasoning chain: France", "tier": 3}
+{"prompt": "Given this incomplete dataset, infer the most likely missing values and explain your reasoning chain: Q3 revenue", "tier": 3}
+{"prompt": "Given this incomplete dataset, infer the most likely missing values and explain your reasoning chain: the merger", "tier": 3}
+{"prompt": "Given this incomplete dataset, infer the most likely missing values and explain your reasoning chain: onboarding delays", "tier": 3}
+{"prompt": "Given this incomplete dataset, infer the most likely missing values and explain your reasoning chain: the outage", "tier": 3}
+{"prompt": "Given this incomplete dataset, infer the most likely missing values and explain your reasoning chain: user retention", "tier": 3}
+{"prompt": "Given this incomplete dataset, infer the most likely missing values and explain your reasoning chain: the API redesign", "tier": 3}
+{"prompt": "Given this incomplete dataset, infer the most likely missing values and explain your reasoning chain: customer churn", "tier": 3}
+{"prompt": "Write a nuanced performance review for an employee balancing praise and constructive criticism given: France", "tier": 3}
+{"prompt": "Write a nuanced performance review for an employee balancing praise and constructive criticism given: Q3 revenue", "tier": 3}
+{"prompt": "Write a nuanced performance review for an employee balancing praise and constructive criticism given: the merger", "tier": 3}
+{"prompt": "Write a nuanced performance review for an employee balancing praise and constructive criticism given: onboarding delays", "tier": 3}
+{"prompt": "Write a nuanced performance review for an employee balancing praise and constructive criticism given: the outage", "tier": 3}
+{"prompt": "Write a nuanced performance review for an employee balancing praise and constructive criticism given: user retention", "tier": 3}
+{"prompt": "Write a nuanced performance review for an employee balancing praise and constructive criticism given: the API redesign", "tier": 3}
+{"prompt": "Write a nuanced performance review for an employee balancing praise and constructive criticism given: customer churn", "tier": 3}
+{"prompt": "Evaluate these two competing technical architectures across five dimensions and recommend one with justification: France", "tier": 3}
+{"prompt": "Evaluate these two competing technical architectures across five dimensions and recommend one with justification: Q3 revenue", "tier": 3}
+{"prompt": "Evaluate these two competing technical architectures across five dimensions and recommend one with justification: the merger", "tier": 3}
+{"prompt": "Evaluate these two competing technical architectures across five dimensions and recommend one with justification: onboarding delays", "tier": 3}
+{"prompt": "Evaluate these two competing technical architectures across five dimensions and recommend one with justification: the outage", "tier": 3}
+{"prompt": "Evaluate these two competing technical architectures across five dimensions and recommend one with justification: user retention", "tier": 3}
+{"prompt": "Evaluate these two competing technical architectures across five dimensions and recommend one with justification: the API redesign", "tier": 3}
+{"prompt": "Evaluate these two competing technical architectures across five dimensions and recommend one with justification: customer churn", "tier": 3}
+{"prompt": "Given this legal clause, identify all edge cases where it could be misinterpreted and propose amended language: France", "tier": 3}
+{"prompt": "Given this legal clause, identify all edge cases where it could be misinterpreted and propose amended language: Q3 revenue", "tier": 3}
+{"prompt": "Given this legal clause, identify all edge cases where it could be misinterpreted and propose amended language: the merger", "tier": 3}
+{"prompt": "Given this legal clause, identify all edge cases where it could be misinterpreted and propose amended language: onboarding delays", "tier": 3}
+{"prompt": "Given this legal clause, identify all edge cases where it could be misinterpreted and propose amended language: the outage", "tier": 3}
+{"prompt": "Given this legal clause, identify all edge cases where it could be misinterpreted and propose amended language: user retention", "tier": 3}
+{"prompt": "Given this legal clause, identify all edge cases where it could be misinterpreted and propose amended language: the API redesign", "tier": 3}
+{"prompt": "Given this legal clause, identify all edge cases where it could be misinterpreted and propose amended language: customer churn", "tier": 3}
+{"prompt": "Design a multi-step experiment to test the hypothesis that France, including controls and expected confounds.", "tier": 3}
+{"prompt": "Design a multi-step experiment to test the hypothesis that Q3 revenue, including controls and expected confounds.", "tier": 3}
+{"prompt": "Design a multi-step experiment to test the hypothesis that the merger, including controls and expected confounds.", "tier": 3}
+{"prompt": "Design a multi-step experiment to test the hypothesis that onboarding delays, including controls and expected confounds.", "tier": 3}
+{"prompt": "Design a multi-step experiment to test the hypothesis that the outage, including controls and expected confounds.", "tier": 3}
+{"prompt": "Design a multi-step experiment to test the hypothesis that user retention, including controls and expected confounds.", "tier": 3}
+{"prompt": "Design a multi-step experiment to test the hypothesis that the API redesign, including controls and expected confounds.", "tier": 3}
+{"prompt": "Design a multi-step experiment to test the hypothesis that customer churn, including controls and expected confounds.", "tier": 3}
+{"prompt": "Given this ambiguous customer complaint, reason through three possible root causes and recommend which to investigate first: France", "tier": 3}
+{"prompt": "Given this ambiguous customer complaint, reason through three possible root causes and recommend which to investigate first: Q3 revenue", "tier": 3}
+{"prompt": "Given this ambiguous customer complaint, reason through three possible root causes and recommend which to investigate first: the merger", "tier": 3}
+{"prompt": "Given this ambiguous customer complaint, reason through three possible root causes and recommend which to investigate first: onboarding delays", "tier": 3}
+{"prompt": "Given this ambiguous customer complaint, reason through three possible root causes and recommend which to investigate first: the outage", "tier": 3}
+{"prompt": "Given this ambiguous customer complaint, reason through three possible root causes and recommend which to investigate first: user retention", "tier": 3}
+{"prompt": "Given this ambiguous customer complaint, reason through three possible root causes and recommend which to investigate first: the API redesign", "tier": 3}
+{"prompt": "Given this ambiguous customer complaint, reason through three possible root causes and recommend which to investigate first: customer churn", "tier": 3}
+{"prompt": "Synthesize these five research abstracts into a coherent literature review identifying open questions: France", "tier": 3}
+{"prompt": "Synthesize these five research abstracts into a coherent literature review identifying open questions: Q3 revenue", "tier": 3}
+{"prompt": "Synthesize these five research abstracts into a coherent literature review identifying open questions: the merger", "tier": 3}
+{"prompt": "Synthesize these five research abstracts into a coherent literature review identifying open questions: onboarding delays", "tier": 3}
+{"prompt": "Synthesize these five research abstracts into a coherent literature review identifying open questions: the outage", "tier": 3}
+{"prompt": "Synthesize these five research abstracts into a coherent literature review identifying open questions: user retention", "tier": 3}
+{"prompt": "Synthesize these five research abstracts into a coherent literature review identifying open questions: the API redesign", "tier": 3}
+{"prompt": "Synthesize these five research abstracts into a coherent literature review identifying open questions: customer churn", "tier": 3}

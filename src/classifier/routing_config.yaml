@@ -1,0 +1,4 @@
+# Maps complexity tier -> registry model name. Edit and redeploy, no code changes needed.
+1: llama3-local
+2: gpt-4o-mini
+3: gpt-4o
